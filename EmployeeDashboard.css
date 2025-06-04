@@ -1,0 +1,58 @@
+/* Employee Dashboard Styles */
+
+.employee-dashboard {
+    padding: 20px;
+  }
+  
+  .greeting {
+    margin-bottom: 20px;
+  }
+  
+  .customer-list {
+    margin-top: 30px;
+  }
+  
+  .customer-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .customer-info h3 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .customer-role {
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .customer-role.customer {
+    background-color: #d3f8d3;
+  }
+  
+  .customer-role.employee {
+    background-color: #ffdd77;
+  }
+  
+  /* Logout Button Styles */
+  .logout-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .logout-btn:hover {
+    background-color: #c0392b;
+  }
+  
